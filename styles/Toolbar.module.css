@@ -3,10 +3,11 @@
     height: 50px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .main div {
-    margin: 25px;
+    margin: 10px;
     cursor: pointer;
 }
 
